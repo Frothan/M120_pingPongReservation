@@ -31,11 +31,10 @@ Some introduction text, formatted in heading 2 style
 ### Use case Diagramm <a name="useCaseDiagramm"></a>
 ![UseCaseDiagramm](./UseCaseDiagramm.png "Use Case Diagramm")
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
+## Diagram <a name="Diagram"></a>
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+### Klassendiagramm <a name="klassendiagramm"></a>
+![KlassenDiagramm](./M120_Ping Pong reservation_class diagram.png)
 
 ## Usability-Test <a name="usability-test"></a>
 Usabitly test . . .
