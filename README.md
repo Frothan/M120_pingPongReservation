@@ -29,6 +29,7 @@ Some introduction text, formatted in heading 2 style
 ### Fully dressed use cases <a name="fullyDressedUsecases"></a>
 
 ### Use case Diagramm <a name="useCaseDiagramm"></a>
+![UseCaseDiagramm](./UseCaseDiagramm.png "Use Case Diagramm")
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
