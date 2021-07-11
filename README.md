@@ -1,6 +1,6 @@
 ![image info](./pingPong_banner.png)
 
-# Projekttitel
+# Ping Pong Schläger-Reservation
 
 Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder registrieren und einen oder mehrere Tischtennisschläger reservieren. Das Tool bietet dem Benutzer weitere Funktionen, wie z. B. die Auswahl, welches Niveau, wie viele Schläger, ob mit oder ohne Tischtennisbälle und für wie lange.
 
@@ -9,19 +9,26 @@ Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder regi
 
 
 # Inhalt
-1. [Einführung](#einführung)
-2. [Verwendung](#verwendung)   
-3. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
+1. [Beschreibung](#beschreibung)
+2. [Use cases](#usecase)
+   1. [Fully dressed use cases](#fullyDressedUsecases)
+   2. [Use case Diagramm](#useCaseDiagramm)
+3. [Diagram](#Diagram)
+    1. [Klassendiagramm](#klassendiagramm)
+    2. [Ablaufdiagramm](#ablaufdiagramm)
 4. [Usability-Test](#usability-test)
-5. [Beiträge leisten](#beiträge)
-6. [Footer](#paragraph2)
+5. [Wireframe](#wireframe)
+6. [Schlusswort](#schlusswort)
 
-## Einführung <a name="einführung"></a>
+## Beschreibung <a name="beschreibung"></a>
 Some introduction text, formatted in heading 2 style
 
-## Verwendung <a name="verwendung"></a>
+## Use cases <a name="usecase"></a>
 Some introduction text, formatted in heading 2 style
+
+### Fully dressed use cases <a name="fullyDressedUsecases"></a>
+
+### Use case Diagramm <a name="useCaseDiagramm"></a>
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
@@ -38,8 +45,5 @@ Beiträge leisten . . .
 ## Wireframe
 [Wireframe](https://pip.pypa.io/en/stable/) for Ping Pong reservation tool.
 
-```bash
-## test
-```
 
 
