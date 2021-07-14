@@ -1,8 +1,6 @@
-![image info](./pingPong_banner.png)
-
 # Ping Pong Schläger-Reservation
 
-Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder registrieren und einen oder mehrere Tischtennisschläger reservieren. Das Tool bietet dem Benutzer weitere Funktionen, wie z. B. die Auswahl, welches Niveau, wie viele Schläger, ob mit oder ohne Tischtennisbälle und für wie lange.
+![image info](./pingPong_banner.png)
 
 #Demovorschau
 ![Alt Text](./dragon_ping_pong.gif)
@@ -21,7 +19,7 @@ Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder regi
 6. [Schlusswort](#schlusswort)
 
 ## Beschreibung <a name="beschreibung"></a>
-Some introduction text, formatted in heading 2 style
+Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder registrieren und einen oder mehrere Tischtennisschläger reservieren. Das Tool bietet dem Benutzer weitere Funktionen, wie z. B. die Auswahl, welches Niveau, wie viele Schläger, ob mit oder ohne Tischtennisbälle und für wie lange.
 
 ## Use cases <a name="usecase"></a>
 Some introduction text, formatted in heading 2 style
