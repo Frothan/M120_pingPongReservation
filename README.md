@@ -1,5 +1,3 @@
-![image info](./pingPong_banner.png)
-
 # Ping Pong Schläger-Reservation
 
 ![image info](Bilder/pingPong_banner.png)
