@@ -2,7 +2,7 @@
 
 ![image info](Bilder/pingPong_banner.png)
 
-#Demovorschau
+# Demovorschau
 ![Alt Text](Bilder/dragon_ping_pong.gif)
 
 
@@ -38,7 +38,7 @@ Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder regi
 ## Diagram <a name="Diagram"></a>
 
 ### Klassendiagramm <a name="klassendiagramm"></a>
-![KlassenDiagramm](./M120_Ping Pong reservation_class diagram.png)
+![KlassenDiagramm](Bilder/M120_Ping Pong reservation_class diagram.png)
 
 ### Use case Diagramm <a name="useCaseDiagramm"></a>
 ![use case diagramm](Bilder/uscd.png)
