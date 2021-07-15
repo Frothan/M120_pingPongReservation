@@ -61,7 +61,8 @@ Rückblickend auf unser Projekt sind wir zufrieden mit den Ergebnissen. Abgesehe
 ![KlassenDiagramm](Bilder/classDiagram.png)
 
 ### Ablaufdiagramm <a name="ablaufdiagramm"></a>
-
+Bei diesem Ablaufdiagramm haben wir uns für den Use Case "Schläger reservieren" entschieden, da dieser wahrscheinlich der wohl wichtigste Use Case ist bei unserem Projekt. Hierbei wird ein Schläger des Niveaus "Pro" reserviert. 
+![Ablaufdiagramm](Bilder/Flussdiagramm_Schläger_reservieren.PNG)
 
 ## Usability-Test <a name="usability-test"></a>
 
