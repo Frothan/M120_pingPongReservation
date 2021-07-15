@@ -52,7 +52,7 @@ Die Applikation ist so entworfen, dass sie einen Tischtennisschläger für eine 
 ### Das erste Test-Szenario
 Das Wetter ist am Samstag sehr schön und Sie möchten Tischtennis-Schläger für einen ganzen Tag reservieren. Da Ihr Niveau Anfänger und das Ihrer Freunde Profi sind, müssen Sie zwei Tischtennis-Schläger reservieren, aber mit zwei verschiedenen Niveaus.
 
-#### Anweisung für das erste Szenario
+#### Anweisung 
 1. Nehmen wir an, Sie haben bereits ein Konto erstellt, melden Sie sich an.
 2. Klicken Sie auf "Start Reservation".
 3. Sie werden auf die nächste Seite weitergeleitet und klicken nun auf "Check Availability".
@@ -60,7 +60,7 @@ Das Wetter ist am Samstag sehr schön und Sie möchten Tischtennis-Schläger fü
 5. Um ein anderes Level zu wählen, klicken Sie auf den Navigationslink "Level".
 6. Wiederholen Sie die Schritte 1, 2, 3 und 4 für den zweiten Schläger mit einem anderen Level.
 
-#### Feedback von Person 1 für das erste Szenario
+#### Feedback von Person 1 
 
 | Thema | Testergebnis | Verbesserungspotenzial |
 | ----------- | ----------- | ----------- |
@@ -73,14 +73,14 @@ Das Wetter ist am Samstag sehr schön und Sie möchten Tischtennis-Schläger fü
 ### Das zweite Test-Szenario
 Sie haben sich erfolgreich für die Tischtennisschläger entschieden, die Sie reservieren wollten, aber Sie stellen gerade fest, dass Sie eine Änderung zu Ihrer Reservierung mitbringen sollten. Sie sollten die Verfügbarkeit prüfen, ob es möglich ist, sie an zwei Tagen hintereinander zu reservieren.
 
-#### Anweisung für das zweite Szenario
+#### Anweisung
 
 1. Navigieren Sie zur Level-Seite.
 2. Klicken Sie auf eine der Levels.
 3. Um die Verfügbarkeit zu sehen, klicken Sie auf "Check Availability".
 4. Wenn es ein passendes Datum für Sie gibt, dass zwei Tage in Folge bietet, wählen Sie das Datum aus und klicken Sie auf Add to shopping cart.
 
-#### Feedback von Person 2 für das zweite Szenario
+#### Feedback von Person 2 
 
 | Thema | Testergebnis | Verbesserungspotenzial |
 | ----------- | ----------- | ----------- |
