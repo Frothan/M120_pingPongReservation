@@ -19,7 +19,6 @@
     2. [Ablaufdiagramm](#ablaufdiagramm)
 5. [Usability-Test](#usability-test)
 6. [Wireframe](#wireframe)
-7. [Schlusswort](#schlusswort)
 
 ## Kurzfassung <a name="kurzfassung"></a>
 ### Idee <a name="idee"></a>
