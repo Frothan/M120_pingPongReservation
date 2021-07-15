@@ -22,17 +22,25 @@
 7. [Schlusswort](#schlusswort)
 
 ## Kurzfassung <a name="kurzfassung"></a>
-###Idee <a name="idee"></a>
+### Idee <a name="idee"></a>
 Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder registrieren und einen oder mehrere Tischtennisschläger reservieren. Das Tool bietet dem Benutzer weitere Funktionen, wie z. B. die Auswahl, welches Niveau, wie viele Schläger, ob mit oder ohne Tischtennisbälle und für wie lange.
 
-###Umsetzung <a name="umsetzung"></a>
+### Umsetzung <a name="umsetzung"></a>
+
+#### MindMap
 Bei der Umsetzung dieser Idee sind wir so vorgegangen, dass wir zuerst ein MindMap erstellt haben,
 welches uns einen Überblick über die verschiedenen umzusetzende Aufgaben verschafft. Danach haben wir diese nach Prioritäten eingeteilt. 
 ![Mindmapping](Bilder/mindMap.png)
 
+#### Dokumentation
+Wir haben unsere Erkenntnisse, Ideen, Bilder und Diagramme zuerst auf Word festgehalten, damit man einfachere Screenshots machen kann, bevor wir diese in Markdown übertragen.
 
-## Mindmap <a name="mindMap"></a>
+#### Github
+Um gemeinsam an einem Projekt zu arbeiten, brauchen wir ein Versionsverwaltungstool. Wir haben uns in diesem Fall für Github entschieden, da wir dieses bis jetzt am besten kennen und haben ein Repository 
+mit dem Namen "M120_pingPongReservation" erstellt. Danach haben wir unsere Aufgaben aufgeteilt, sodass jeder von uns individuell am Projekt arbeiten konnte. Es gab jedoch auch Aufgaben, die wir gemeinsam durchgeführt haben aufgrund der Komplexität.
 
+### Ergebnis
+Rückblickend auf unser Projekt sind wir zufrieden mit den Ergebnissen. Abgesehen von der Implementation konnten wir alles umsetzen, was wir wollten. Wir haben durch dieses Projekt gelernt, wie wichtig die Designphase ist für die Softwareentwicklung, wie man Wireframes erstellt, wie man Erkenntnisse in Markdown festhält und vieles mehr. 
 
 ## Use cases <a name="usecase"></a>
 ### Fully dressed use cases <a name="fullyDressedUsecases"></a>
