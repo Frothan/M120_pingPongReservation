@@ -91,7 +91,7 @@ Sie haben sich erfolgreich für die Tischtennisschläger entschieden, die Sie re
 | Bezahlen | ok  | - |
 
 ## Wireframe
-[Wireframe](Wireframe.md) for Ping Pong reservation tool.
+[Wireframe](Wireframe.md) für die Ping-Pong Schläger Reservation.
 
 
 
