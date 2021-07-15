@@ -1,11 +1,9 @@
-![image info](./pingPong_banner.png)
-
 # Ping Pong Schläger-Reservation
 
-Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder registrieren und einen oder mehrere Tischtennisschläger reservieren. Das Tool bietet dem Benutzer weitere Funktionen, wie z. B. die Auswahl, welches Niveau, wie viele Schläger, ob mit oder ohne Tischtennisbälle und für wie lange.
+![image info](Bilder/pingPong_banner.png)
 
 #Demovorschau
-![Alt Text](./dragon_ping_pong.gif)
+![Alt Text](Bilder/dragon_ping_pong.gif)
 
 
 # Inhalt
@@ -21,7 +19,7 @@ Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder regi
 6. [Schlusswort](#schlusswort)
 
 ## Beschreibung <a name="beschreibung"></a>
-Some introduction text, formatted in heading 2 style
+Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder registrieren und einen oder mehrere Tischtennisschläger reservieren. Das Tool bietet dem Benutzer weitere Funktionen, wie z. B. die Auswahl, welches Niveau, wie viele Schläger, ob mit oder ohne Tischtennisbälle und für wie lange.
 
 ## Use cases <a name="usecase"></a>
 Some introduction text, formatted in heading 2 style
@@ -29,6 +27,7 @@ Some introduction text, formatted in heading 2 style
 ### Fully dressed use cases <a name="fullyDressedUsecases"></a>
 
 ### Use case Diagramm <a name="useCaseDiagramm"></a>
+![UseCaseDiagramm](Bilder/Wireframe/UseCaseDiagramm.png)
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
@@ -43,7 +42,7 @@ Usabitly test . . .
 Beiträge leisten . . .
 
 ## Wireframe
-[Wireframe](https://pip.pypa.io/en/stable/) for Ping Pong reservation tool.
+[Wireframe](https://github.com/Frothan/M120_pingPongReservation/Wireframe) for Ping Pong reservation tool.
 
 
 
