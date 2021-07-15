@@ -80,7 +80,7 @@ Sie haben sich erfolgreich für die Tischtennisschläger entschieden, die Sie re
 | Bezahlen | ok  | - |
 
 ## Wireframe
-[Wireframe](https://github.com/Frothan/M120_pingPongReservation/Wireframe) for Ping Pong reservation tool.
+[Wireframe](https://github.com/Frothan/M120_pingPongReservation/blob/master/Wireframe) for Ping Pong reservation tool.
 
 
 
