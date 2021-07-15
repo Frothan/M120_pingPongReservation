@@ -7,8 +7,10 @@
 
 
 # Inhalt
-1. [Beschreibung](#beschreibung)
-2. [Mindmap](#mindMap)   
+1. [Kurzfassung](#kurzfassung)
+   1. [Idee](#idee)
+   2. [Umsetzung](#umsetzung)
+   3. [Ergebnis](#ergebnis)
 3. [Use cases](#usecase)
    1. [Fully dressed use cases](#fullyDressedUsecases)
    2. [Use case Diagramm](#useCaseDiagramm)
@@ -19,11 +21,18 @@
 6. [Wireframe](#wireframe)
 7. [Schlusswort](#schlusswort)
 
-## Beschreibung <a name="beschreibung"></a>
+## Kurzfassung <a name="kurzfassung"></a>
+###Idee <a name="idee"></a>
 Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder registrieren und einen oder mehrere Tischtennisschläger reservieren. Das Tool bietet dem Benutzer weitere Funktionen, wie z. B. die Auswahl, welches Niveau, wie viele Schläger, ob mit oder ohne Tischtennisbälle und für wie lange.
 
-## Mindmap <a name="mindMap"></a>
+###Umsetzung <a name="umsetzung"></a>
+Bei der Umsetzung dieser Idee sind wir so vorgegangen, dass wir zuerst ein MindMap erstellt haben,
+welches uns einen Überblick über die verschiedenen umzusetzende Aufgaben verschafft. Danach haben wir diese nach Prioritäten eingeteilt. 
 ![Mindmapping](Bilder/mindMap.png)
+
+
+## Mindmap <a name="mindMap"></a>
+
 
 ## Use cases <a name="usecase"></a>
 ### Fully dressed use cases <a name="fullyDressedUsecases"></a>
