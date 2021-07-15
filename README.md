@@ -1,5 +1,3 @@
-![image info](./pingPong_banner.png)
-
 # Ping Pong Schläger-Reservation
 
 ![image info](Bilder/pingPong_banner.png)
@@ -10,29 +8,40 @@
 
 # Inhalt
 1. [Beschreibung](#beschreibung)
-2. [Use cases](#usecase)
+2. [Mindmap](#mindMap)   
+3. [Use cases](#usecase)
    1. [Fully dressed use cases](#fullyDressedUsecases)
    2. [Use case Diagramm](#useCaseDiagramm)
-3. [Diagram](#Diagram)
+4. [Diagram](#Diagram)
     1. [Klassendiagramm](#klassendiagramm)
     2. [Ablaufdiagramm](#ablaufdiagramm)
-4. [Usability-Test](#usability-test)
-5. [Wireframe](#wireframe)
-6. [Schlusswort](#schlusswort)
+5. [Usability-Test](#usability-test)
+6. [Wireframe](#wireframe)
+7. [Schlusswort](#schlusswort)
 
 ## Beschreibung <a name="beschreibung"></a>
 Mit diesem Tool kann sich der Benutzer beim Reservierungstool anmelden oder registrieren und einen oder mehrere Tischtennisschläger reservieren. Das Tool bietet dem Benutzer weitere Funktionen, wie z. B. die Auswahl, welches Niveau, wie viele Schläger, ob mit oder ohne Tischtennisbälle und für wie lange.
 
+## Mindmap <a name="mindMap"></a>
+![Mindmapping](Bilder/mindMap.png)
+
 ## Use cases <a name="usecase"></a>
 ### Fully dressed use cases <a name="fullyDressedUsecases"></a>
-Screenshot from Fully dressed use cases to be added 
-### Use case Diagramm <a name="useCaseDiagramm"></a>
-![UseCaseDiagramm](Bilder/Wireframe/UseCaseDiagramm.png)
+![FullyDressedUseCases](Bilder/fullyDressedUseCases/fduc_1_2.png)
+
+![FullyDressedUseCases](Bilder/fullyDressedUseCases/fduc_3_4_5.png)
+
+![FullyDressedUseCases](Bilder/fullyDressedUseCases/fduc_6_7_8_9.png)
+
+![FullyDressedUseCases](Bilder/fullyDressedUseCases/fduc_10_11_12_13_14.png)
 
 ## Diagram <a name="Diagram"></a>
 
 ### Klassendiagramm <a name="klassendiagramm"></a>
 ![KlassenDiagramm](./M120_Ping Pong reservation_class diagram.png)
+
+### Use case Diagramm <a name="useCaseDiagramm"></a>
+![use case diagramm](Bilder/uscd.png)
 
 ## Usability-Test <a name="usability-test"></a>
 
