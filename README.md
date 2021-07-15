@@ -52,7 +52,7 @@ Die Applikation ist so entworfen, dass sie einen Tischtennisschläger für eine 
 ### Das erste Test-Szenario
 Das Wetter ist am Samstag sehr schön und Sie möchten Tischtennis-Schläger für einen ganzen Tag reservieren. Da Ihr Niveau Anfänger und das Ihrer Freunde Profi sind, müssen Sie zwei Tischtennis-Schläger reservieren, aber mit zwei verschiedenen Niveaus.
 
-#### Anweisung 
+#### Anweisung: 
 1. Nehmen wir an, Sie haben bereits ein Konto erstellt, melden Sie sich an.
 2. Klicken Sie auf "Start Reservation".
 3. Sie werden auf die nächste Seite weitergeleitet und klicken nun auf "Check Availability".
@@ -73,7 +73,7 @@ Das Wetter ist am Samstag sehr schön und Sie möchten Tischtennis-Schläger fü
 ### Das zweite Test-Szenario
 Sie haben sich erfolgreich für die Tischtennisschläger entschieden, die Sie reservieren wollten, aber Sie stellen gerade fest, dass Sie eine Änderung zu Ihrer Reservierung mitbringen sollten. Sie sollten die Verfügbarkeit prüfen, ob es möglich ist, sie an zwei Tagen hintereinander zu reservieren.
 
-#### Anweisung
+#### Anweisung:
 
 1. Navigieren Sie zur Level-Seite.
 2. Klicken Sie auf eine der Levels.
