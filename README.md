@@ -2,7 +2,7 @@
 
 ![image info](Bilder/pingPong_banner.png)
 
-#Demovorschau
+# Demovorschau
 ![Alt Text](Bilder/dragon_ping_pong.gif)
 
 
