@@ -61,7 +61,7 @@ Rückblickend auf unser Projekt sind wir zufrieden mit den Ergebnissen. Abgesehe
 ![KlassenDiagramm](Bilder/classDiagram.png)
 
 #### Nachher:
-![KlassenDiagrammupdate](Bilder/pingpong_klassendiagrammupdate.png)
+![KlassenDiagrammupdate](Bilder/pingpong_klassendiagrammupdate.PNG)
 
 ### Ablaufdiagramm <a name="ablaufdiagramm"></a>
 Bei diesem Ablaufdiagramm haben wir uns für den Use Case "Schläger reservieren" entschieden, da dieser wahrscheinlich der wohl wichtigste Use Case ist bei unserem Projekt. Hierbei wird ein Schläger des Niveaus "Pro" reserviert. 
